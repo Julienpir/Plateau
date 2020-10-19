@@ -5,7 +5,7 @@
 Project aiming at the realization of a decorative object. Using the color of the leds and their arrangement to create animations.
 Project inspired by the youtube channel GreatScott.
 
-link : https://www.youtube.com/watch?v=D_QBlFIQk-o* 
+link : https://www.youtube.com/watch?v=D_QBlFIQk-o
 
 ## Materials used: ##
 
