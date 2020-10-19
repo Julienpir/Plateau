@@ -26,7 +26,6 @@ La carte arduino commande les différentes leds afin de former une image. (Les d
   <img src="Images/image.jpg">
 </p>
 L'ESP8266 va permettre de se connecter par wifi au plateau en utilisant l'application RemoteXY. On peut donc modifier la couleur des leds avec son téléphone.
-Des modifications sont à prévoir dans le futur pour augmenter les fonctions de l'application... 
 
 ## Améliorations futures : ##
 
